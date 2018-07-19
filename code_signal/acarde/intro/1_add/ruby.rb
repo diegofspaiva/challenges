@@ -1,0 +1,3 @@
+def checkPalindrome(inputString)
+
+end
